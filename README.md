@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+Befor starting just make sure you have put your own api key in utils key.dart
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
