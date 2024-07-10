@@ -1,5 +1,5 @@
 class Key {
-  static String key = '39ece51889be428e880ed5cb33b1a158';
+  static String key = 'YOUR_API_KEY';
 }
 
 
